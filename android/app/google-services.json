@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "209171630887",
+    "project_id": "camiciemockup",
+    "storage_bucket": "camiciemockup.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:209171630887:android:61161e90e4420774e63702",
+        "android_client_info": {
+          "package_name": "com.camicie_mockup"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "209171630887-p2j72700g4qm4vuq7t797d2te5dnc3lq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDhKrE2SENDQsR6ECKRQ6bhZpYknCz_nQw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "209171630887-p2j72700g4qm4vuq7t797d2te5dnc3lq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
